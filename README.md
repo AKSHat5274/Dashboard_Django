@@ -1,48 +1,19 @@
-# [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-django/react/) - `Django API`
 
-Start your Development with an Innovative Admin Template for **Material-UI** and **React**. [Soft UI Dashboard React](https://appseed.us/product/soft-ui-dashboard/api-server-django/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. The product comes with a simple JWT authentication flow: login/register/logout. 
 
-- 👉 [Django React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-django/react/) - product page
-- 👉 [Django React Soft Dashboard](https://django-react-soft-dashboard.appseed-srv1.com/authentication/sign-in) - LIVE Demo
-
-<br />
 
 > Features
 
-- ✅ Innovative `Material-UI Design` - Creafted by [Creative-Tim](https://bit.ly/3fKQZaL)
-- ✅ React, Redux, Redux-persist
-- ✅ Authentication: JWT Login/Register/Logout
-- ✅ **Full-stack Ready** using a **Django API Server** (open-source project) - Server Features
-  - Django / DRF / SQLite3 - a simple, easy to use backend
-  - Authentication with JWT (login, logout, register)
-  - Docker, Unitary tests
-  
-<br />
-
-![React Soft Dashboard - Open-source full-stack product](https://user-images.githubusercontent.com/51070104/176936814-74386559-4e05-43d5-b9a4-8f70ce96a610.png)
-
-<br />
-
-> React UI Tests:
-
-| NodeJS | NPM | YARN | Status | 
-| --- | --- | --- | --- | 
-| `v16.13.0` | `v8.1.0`   | `v1.22.5` | ✔️ | 
-| `v14.15.0` | `v6.14.8`  | `v1.22.5` | ✔️ |
-| `v12.22.0` | `v6.14.11` | `v1.22.5` | ✔️ |
-
-<br />
 
 ## ✨ Quick-start 
 
-> 👉 **Start the [Django API](./django-api)** using `Docker`
+> **Start the [Django API](./django-api)** using `Docker`
 
 ```bash
 $ cd django-api
 $ docker-compose up --build  
 ```
 
-At this point, the API should be up & running at `http://localhost:5000`, and we can test the interface using POSTMAN or `curl`.
+At this point, the API should be up & running at `http://localhost:5000`
 
 <br />
 
@@ -58,8 +29,6 @@ Once all the above commands are executed, the `React UI` should be visible in th
 After we register a new user and Sign IN, all the private pages become accessible. 
 
 <br />
-
-![React Soft Dashboard - Open-source full-stack product with Django API Backend.](https://user-images.githubusercontent.com/51070104/136687466-1dfeeb6b-d474-45df-879b-0857b27eb615.gif) 
 
 <br >
 
@@ -77,7 +46,7 @@ The product is built using a `two-tier` pattern where the React frontend is deco
 
 <br />
 
-## ✨ Manual build
+##Manual build
 
 ### **Start the Django API** 
 
@@ -246,13 +215,3 @@ authorization: JWT_TOKEN (returned by Login request)
 ![Django React Soft UI Dashboard - Billing Page.](https://user-images.githubusercontent.com/51070104/142404073-68b96008-fb06-4ff5-98cf-c8e3eca636c9.png)
 
 <br />
-
-## Links & Resources
-
-- Ask for [Support](https://appseed.us/support) on [Discord](https://discord.gg/fZC6hup)
-- See for [React Starters](https://appseed.us/apps/react) - index provided by AppSeed
-
-<br />
-
----
-[Django React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-django/react/) - Provided by **[App Generator](https://appseed.us/app-generator)**.
